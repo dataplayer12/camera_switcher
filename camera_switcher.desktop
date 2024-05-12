@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Camera Switcher
+Comment=Watch all home security cameras
+Icon=/home/nvidia/camera_switcher/icon.png
+Exec=/home/nvidia/camera_switcher/run.sh
+Terminal=false
+Categories=Utility;
+
